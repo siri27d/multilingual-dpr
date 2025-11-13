@@ -70,8 +70,7 @@ class DataProcessor:
     def load_mr_tydi(languages: List[str] = None, split: str = 'train'):
         """Load Mr. TyDi dataset"""
         if languages is None:
-            languages = ['arabic', 'bengali', 'english', 'finnish', 'indonesian', 
-                        'japanese', 'korean', 'russian', 'swahili', 'telugu', 'thai']
+            languages = ['arabic', 'bengali', 'english', 'finnish', 'indonesian']
         
         datasets = {}
         for lang in languages:
@@ -85,13 +84,39 @@ class DataProcessor:
         return datasets
     
     @staticmethod
-    def create_synthetic_data(num_queries=1000, num_passages=10000):
+    def process_hf_datasets(datasets):
+        """Process HuggingFace datasets into our format"""
+        queries = []
+        passages = []
+        
+        for lang, dataset in datasets.items():
+            for example in dataset:
+                query_id = example.get('query_id', f"query_{len(queries)}")
+                queries.append({
+                    'id': query_id,
+                    'text': example['query'],
+                    'language': lang,
+                    'positive_passage_ids': [example['positive_passages'][0]['docid']]
+                })
+                
+                # Add positive passage
+                positive_passage = example['positive_passages'][0]
+                passages.append({
+                    'id': positive_passage['docid'],
+                    'text': positive_passage['text'],
+                    'language': lang
+                })
+        
+        return queries, passages
+    
+    @staticmethod
+    def create_synthetic_data(num_queries=500, num_passages=2000):
         """Create synthetic multilingual data for testing"""
-        languages = ['en', 'es', 'fr', 'de', 'ja', 'ko', 'zh', 'ar', 'hi', 'ru']
+        languages = ['en', 'es', 'fr', 'de', 'ja', 'ko', 'zh', 'ar']
         topics = [
             'artificial intelligence', 'climate change', 'healthcare', 
             'renewable energy', 'space exploration', 'quantum computing',
-            'biodiversity', 'financial technology', 'education technology'
+            'biodiversity', 'financial technology'
         ]
         
         # Generate passages
@@ -101,7 +126,7 @@ class DataProcessor:
             topic = random.choice(topics)
             passages.append({
                 'id': f'passage_{i}',
-                'text': f"This is a detailed passage in {lang} about {topic}. " * 5,
+                'text': f"This is a detailed passage in {lang} about {topic}. " * 3,
                 'language': lang,
                 'topic': topic
             })
@@ -132,7 +157,6 @@ def create_data_loaders(queries, passages, tokenizer, batch_size=32, shuffle=Tru
         dataset, 
         batch_size=batch_size, 
         shuffle=shuffle, 
-        collate_fn=dataset.collate_fn,
-        num_workers=2
+        collate_fn=dataset.collate_fn
     )
     return dataloader

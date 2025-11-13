@@ -83,31 +83,3 @@ class MultilingualDPR(nn.Module):
             passage_input_ids=batch['positive_passage_input_ids'],
             passage_attention_mask=batch['positive_passage_attention_mask']
         )
-    
-    def save_pretrained(self, save_directory):
-        """Save model and tokenizer"""
-        self.model.query_encoder.save_pretrained(f"{save_directory}/query_encoder")
-        self.model.passage_encoder.save_pretrained(f"{save_directory}/passage_encoder")
-        self.tokenizer.save_pretrained(save_directory)
-        
-        # Save projection layers
-        torch.save({
-            'query_projection_state_dict': self.model.query_projection.state_dict(),
-            'passage_projection_state_dict': self.model.passage_projection.state_dict(),
-        }, f"{save_directory}/projections.pth")
-    
-    @classmethod
-    def from_pretrained(cls, config, save_directory):
-        """Load model from saved directory"""
-        model = cls(config)
-        
-        # Load encoders
-        model.model.query_encoder = AutoModel.from_pretrained(f"{save_directory}/query_encoder")
-        model.model.passage_encoder = AutoModel.from_pretrained(f"{save_directory}/passage_encoder")
-        
-        # Load projection layers
-        projections = torch.load(f"{save_directory}/projections.pth")
-        model.model.query_projection.load_state_dict(projections['query_projection_state_dict'])
-        model.model.passage_projection.load_state_dict(projections['passage_projection_state_dict'])
-        
-        return model
