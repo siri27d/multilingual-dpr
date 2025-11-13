@@ -1,0 +1,396 @@
+{
+  "queries": [
+    {
+      "id": "query_0",
+      "text": "en query about artificial intelligence",
+      "language": "en",
+      "positive_passage_ids": [
+        "passage_150"
+      ],
+      "topic": "artificial intelligence"
+    },
+    {
+      "id": "query_1",
+      "text": "en query about renewable energy",
+      "language": "en",
+      "positive_passage_ids": [
+        "passage_98"
+      ],
+      "topic": "renewable energy"
+    },
+    {
+      "id": "query_2",
+      "text": "ko query about artificial intelligence",
+      "language": "ko",
+      "positive_passage_ids": [
+        "passage_168"
+      ],
+      "topic": "artificial intelligence"
+    },
+    {
+      "id": "query_3",
+      "text": "ar query about renewable energy",
+      "language": "ar",
+      "positive_passage_ids": [
+        "passage_73"
+      ],
+      "topic": "renewable energy"
+    },
+    {
+      "id": "query_4",
+      "text": "ar query about quantum computing",
+      "language": "ar",
+      "positive_passage_ids": [
+        "passage_95"
+      ],
+      "topic": "quantum computing"
+    },
+    {
+      "id": "query_5",
+      "text": "fr query about biodiversity",
+      "language": "fr",
+      "positive_passage_ids": [
+        "passage_147"
+      ],
+      "topic": "biodiversity"
+    },
+    {
+      "id": "query_6",
+      "text": "es query about renewable energy",
+      "language": "es",
+      "positive_passage_ids": [
+        "passage_185"
+      ],
+      "topic": "renewable energy"
+    },
+    {
+      "id": "query_7",
+      "text": "ko query about space exploration",
+      "language": "ko",
+      "positive_passage_ids": [
+        "passage_177"
+      ],
+      "topic": "space exploration"
+    },
+    {
+      "id": "query_8",
+      "text": "zh query about healthcare",
+      "language": "zh",
+      "positive_passage_ids": [
+        "passage_122"
+      ],
+      "topic": "healthcare"
+    },
+    {
+      "id": "query_9",
+      "text": "ar query about quantum computing",
+      "language": "ar",
+      "positive_passage_ids": [
+        "passage_59"
+      ],
+      "topic": "quantum computing"
+    }
+  ],
+  "passages": [
+    {
+      "id": "passage_0",
+      "text": "This is a detailed passage in de about healthcare. This is a detailed passage in de about healthcare. This is a detailed passage in de about healthcare. ",
+      "language": "de",
+      "topic": "healthcare"
+    },
+    {
+      "id": "passage_1",
+      "text": "This is a detailed passage in ja about climate change. This is a detailed passage in ja about climate change. This is a detailed passage in ja about climate change. ",
+      "language": "ja",
+      "topic": "climate change"
+    },
+    {
+      "id": "passage_2",
+      "text": "This is a detailed passage in es about climate change. This is a detailed passage in es about climate change. This is a detailed passage in es about climate change. ",
+      "language": "es",
+      "topic": "climate change"
+    },
+    {
+      "id": "passage_3",
+      "text": "This is a detailed passage in zh about climate change. This is a detailed passage in zh about climate change. This is a detailed passage in zh about climate change. ",
+      "language": "zh",
+      "topic": "climate change"
+    },
+    {
+      "id": "passage_4",
+      "text": "This is a detailed passage in zh about climate change. This is a detailed passage in zh about climate change. This is a detailed passage in zh about climate change. ",
+      "language": "zh",
+      "topic": "climate change"
+    },
+    {
+      "id": "passage_5",
+      "text": "This is a detailed passage in ja about financial technology. This is a detailed passage in ja about financial technology. This is a detailed passage in ja about financial technology. ",
+      "language": "ja",
+      "topic": "financial technology"
+    },
+    {
+      "id": "passage_6",
+      "text": "This is a detailed passage in de about renewable energy. This is a detailed passage in de about renewable energy. This is a detailed passage in de about renewable energy. ",
+      "language": "de",
+      "topic": "renewable energy"
+    },
+    {
+      "id": "passage_7",
+      "text": "This is a detailed passage in fr about renewable energy. This is a detailed passage in fr about renewable energy. This is a detailed passage in fr about renewable energy. ",
+      "language": "fr",
+      "topic": "renewable energy"
+    },
+    {
+      "id": "passage_8",
+      "text": "This is a detailed passage in ar about healthcare. This is a detailed passage in ar about healthcare. This is a detailed passage in ar about healthcare. ",
+      "language": "ar",
+      "topic": "healthcare"
+    },
+    {
+      "id": "passage_9",
+      "text": "This is a detailed passage in en about renewable energy. This is a detailed passage in en about renewable energy. This is a detailed passage in en about renewable energy. ",
+      "language": "en",
+      "topic": "renewable energy"
+    },
+    {
+      "id": "passage_10",
+      "text": "This is a detailed passage in en about space exploration. This is a detailed passage in en about space exploration. This is a detailed passage in en about space exploration. ",
+      "language": "en",
+      "topic": "space exploration"
+    },
+    {
+      "id": "passage_11",
+      "text": "This is a detailed passage in zh about quantum computing. This is a detailed passage in zh about quantum computing. This is a detailed passage in zh about quantum computing. ",
+      "language": "zh",
+      "topic": "quantum computing"
+    },
+    {
+      "id": "passage_12",
+      "text": "This is a detailed passage in es about artificial intelligence. This is a detailed passage in es about artificial intelligence. This is a detailed passage in es about artificial intelligence. ",
+      "language": "es",
+      "topic": "artificial intelligence"
+    },
+    {
+      "id": "passage_13",
+      "text": "This is a detailed passage in ar about space exploration. This is a detailed passage in ar about space exploration. This is a detailed passage in ar about space exploration. ",
+      "language": "ar",
+      "topic": "space exploration"
+    },
+    {
+      "id": "passage_14",
+      "text": "This is a detailed passage in zh about climate change. This is a detailed passage in zh about climate change. This is a detailed passage in zh about climate change. ",
+      "language": "zh",
+      "topic": "climate change"
+    },
+    {
+      "id": "passage_15",
+      "text": "This is a detailed passage in es about climate change. This is a detailed passage in es about climate change. This is a detailed passage in es about climate change. ",
+      "language": "es",
+      "topic": "climate change"
+    },
+    {
+      "id": "passage_16",
+      "text": "This is a detailed passage in fr about artificial intelligence. This is a detailed passage in fr about artificial intelligence. This is a detailed passage in fr about artificial intelligence. ",
+      "language": "fr",
+      "topic": "artificial intelligence"
+    },
+    {
+      "id": "passage_17",
+      "text": "This is a detailed passage in fr about renewable energy. This is a detailed passage in fr about renewable energy. This is a detailed passage in fr about renewable energy. ",
+      "language": "fr",
+      "topic": "renewable energy"
+    },
+    {
+      "id": "passage_18",
+      "text": "This is a detailed passage in de about quantum computing. This is a detailed passage in de about quantum computing. This is a detailed passage in de about quantum computing. ",
+      "language": "de",
+      "topic": "quantum computing"
+    },
+    {
+      "id": "passage_19",
+      "text": "This is a detailed passage in zh about climate change. This is a detailed passage in zh about climate change. This is a detailed passage in zh about climate change. ",
+      "language": "zh",
+      "topic": "climate change"
+    },
+    {
+      "id": "passage_20",
+      "text": "This is a detailed passage in ar about healthcare. This is a detailed passage in ar about healthcare. This is a detailed passage in ar about healthcare. ",
+      "language": "ar",
+      "topic": "healthcare"
+    },
+    {
+      "id": "passage_21",
+      "text": "This is a detailed passage in en about healthcare. This is a detailed passage in en about healthcare. This is a detailed passage in en about healthcare. ",
+      "language": "en",
+      "topic": "healthcare"
+    },
+    {
+      "id": "passage_22",
+      "text": "This is a detailed passage in en about biodiversity. This is a detailed passage in en about biodiversity. This is a detailed passage in en about biodiversity. ",
+      "language": "en",
+      "topic": "biodiversity"
+    },
+    {
+      "id": "passage_23",
+      "text": "This is a detailed passage in en about biodiversity. This is a detailed passage in en about biodiversity. This is a detailed passage in en about biodiversity. ",
+      "language": "en",
+      "topic": "biodiversity"
+    },
+    {
+      "id": "passage_24",
+      "text": "This is a detailed passage in zh about renewable energy. This is a detailed passage in zh about renewable energy. This is a detailed passage in zh about renewable energy. ",
+      "language": "zh",
+      "topic": "renewable energy"
+    },
+    {
+      "id": "passage_25",
+      "text": "This is a detailed passage in ko about climate change. This is a detailed passage in ko about climate change. This is a detailed passage in ko about climate change. ",
+      "language": "ko",
+      "topic": "climate change"
+    },
+    {
+      "id": "passage_26",
+      "text": "This is a detailed passage in en about financial technology. This is a detailed passage in en about financial technology. This is a detailed passage in en about financial technology. ",
+      "language": "en",
+      "topic": "financial technology"
+    },
+    {
+      "id": "passage_27",
+      "text": "This is a detailed passage in en about financial technology. This is a detailed passage in en about financial technology. This is a detailed passage in en about financial technology. ",
+      "language": "en",
+      "topic": "financial technology"
+    },
+    {
+      "id": "passage_28",
+      "text": "This is a detailed passage in fr about renewable energy. This is a detailed passage in fr about renewable energy. This is a detailed passage in fr about renewable energy. ",
+      "language": "fr",
+      "topic": "renewable energy"
+    },
+    {
+      "id": "passage_29",
+      "text": "This is a detailed passage in ja about healthcare. This is a detailed passage in ja about healthcare. This is a detailed passage in ja about healthcare. ",
+      "language": "ja",
+      "topic": "healthcare"
+    },
+    {
+      "id": "passage_30",
+      "text": "This is a detailed passage in ko about space exploration. This is a detailed passage in ko about space exploration. This is a detailed passage in ko about space exploration. ",
+      "language": "ko",
+      "topic": "space exploration"
+    },
+    {
+      "id": "passage_31",
+      "text": "This is a detailed passage in zh about climate change. This is a detailed passage in zh about climate change. This is a detailed passage in zh about climate change. ",
+      "language": "zh",
+      "topic": "climate change"
+    },
+    {
+      "id": "passage_32",
+      "text": "This is a detailed passage in en about quantum computing. This is a detailed passage in en about quantum computing. This is a detailed passage in en about quantum computing. ",
+      "language": "en",
+      "topic": "quantum computing"
+    },
+    {
+      "id": "passage_33",
+      "text": "This is a detailed passage in es about artificial intelligence. This is a detailed passage in es about artificial intelligence. This is a detailed passage in es about artificial intelligence. ",
+      "language": "es",
+      "topic": "artificial intelligence"
+    },
+    {
+      "id": "passage_34",
+      "text": "This is a detailed passage in ar about artificial intelligence. This is a detailed passage in ar about artificial intelligence. This is a detailed passage in ar about artificial intelligence. ",
+      "language": "ar",
+      "topic": "artificial intelligence"
+    },
+    {
+      "id": "passage_35",
+      "text": "This is a detailed passage in en about artificial intelligence. This is a detailed passage in en about artificial intelligence. This is a detailed passage in en about artificial intelligence. ",
+      "language": "en",
+      "topic": "artificial intelligence"
+    },
+    {
+      "id": "passage_36",
+      "text": "This is a detailed passage in es about healthcare. This is a detailed passage in es about healthcare. This is a detailed passage in es about healthcare. ",
+      "language": "es",
+      "topic": "healthcare"
+    },
+    {
+      "id": "passage_37",
+      "text": "This is a detailed passage in zh about renewable energy. This is a detailed passage in zh about renewable energy. This is a detailed passage in zh about renewable energy. ",
+      "language": "zh",
+      "topic": "renewable energy"
+    },
+    {
+      "id": "passage_38",
+      "text": "This is a detailed passage in en about renewable energy. This is a detailed passage in en about renewable energy. This is a detailed passage in en about renewable energy. ",
+      "language": "en",
+      "topic": "renewable energy"
+    },
+    {
+      "id": "passage_39",
+      "text": "This is a detailed passage in de about healthcare. This is a detailed passage in de about healthcare. This is a detailed passage in de about healthcare. ",
+      "language": "de",
+      "topic": "healthcare"
+    },
+    {
+      "id": "passage_40",
+      "text": "This is a detailed passage in en about renewable energy. This is a detailed passage in en about renewable energy. This is a detailed passage in en about renewable energy. ",
+      "language": "en",
+      "topic": "renewable energy"
+    },
+    {
+      "id": "passage_41",
+      "text": "This is a detailed passage in fr about climate change. This is a detailed passage in fr about climate change. This is a detailed passage in fr about climate change. ",
+      "language": "fr",
+      "topic": "climate change"
+    },
+    {
+      "id": "passage_42",
+      "text": "This is a detailed passage in ar about biodiversity. This is a detailed passage in ar about biodiversity. This is a detailed passage in ar about biodiversity. ",
+      "language": "ar",
+      "topic": "biodiversity"
+    },
+    {
+      "id": "passage_43",
+      "text": "This is a detailed passage in ko about biodiversity. This is a detailed passage in ko about biodiversity. This is a detailed passage in ko about biodiversity. ",
+      "language": "ko",
+      "topic": "biodiversity"
+    },
+    {
+      "id": "passage_44",
+      "text": "This is a detailed passage in ko about biodiversity. This is a detailed passage in ko about biodiversity. This is a detailed passage in ko about biodiversity. ",
+      "language": "ko",
+      "topic": "biodiversity"
+    },
+    {
+      "id": "passage_45",
+      "text": "This is a detailed passage in de about artificial intelligence. This is a detailed passage in de about artificial intelligence. This is a detailed passage in de about artificial intelligence. ",
+      "language": "de",
+      "topic": "artificial intelligence"
+    },
+    {
+      "id": "passage_46",
+      "text": "This is a detailed passage in fr about space exploration. This is a detailed passage in fr about space exploration. This is a detailed passage in fr about space exploration. ",
+      "language": "fr",
+      "topic": "space exploration"
+    },
+    {
+      "id": "passage_47",
+      "text": "This is a detailed passage in ko about healthcare. This is a detailed passage in ko about healthcare. This is a detailed passage in ko about healthcare. ",
+      "language": "ko",
+      "topic": "healthcare"
+    },
+    {
+      "id": "passage_48",
+      "text": "This is a detailed passage in ko about renewable energy. This is a detailed passage in ko about renewable energy. This is a detailed passage in ko about renewable energy. ",
+      "language": "ko",
+      "topic": "renewable energy"
+    },
+    {
+      "id": "passage_49",
+      "text": "This is a detailed passage in es about artificial intelligence. This is a detailed passage in es about artificial intelligence. This is a detailed passage in es about artificial intelligence. ",
+      "language": "es",
+      "topic": "artificial intelligence"
+    }
+  ]
+}
