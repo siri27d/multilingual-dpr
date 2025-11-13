@@ -30,24 +30,39 @@
 \\\
 multilingual-dpr/
 ├── config/
-│   └── training_config.py     # Training configuration
+│   └── training_config.py
 ├── data/
-│   ├── data_loader.py         # Data loading and processing
-│   └── data_generation.py     # Synthetic data generation
+│   ├── data_loader.py
+│   └── data_generation.py
 ├── models/
-│   └── dpr_model.py           # Dual encoder model architecture
+│   └── dpr_model.py
 ├── training/
-│   ├── trainer.py             # Main training pipeline
-│   ├── cluster_manager.py     # SAC-ICT & ACR-ICT implementations
-│   └── loss_functions.py      # Contrastive loss functions
+│   ├── trainer.py
+│   ├── cluster_manager.py
+│   └── loss_functions.py
 ├── evaluation/
-│   └── evaluator.py           # Retrieval evaluation metrics
+│   └── evaluator.py
 ├── visualization/
-│   └── visualizer.py          # Training analysis and plots
-├── main.py                    # Main execution script
-├── run_training.py           # Simplified training runner
-└── requirements.txt          # Dependencies
+│   └── visualizer.py
+├── main.py
+├── run_training.py
+├── requirements.txt
+├── LICENSE
+└── README.md
 \\\
+
+**File Descriptions:**
+- \config/training_config.py\ - Training configuration and hyperparameters
+- \data/data_loader.py\ - Data loading and processing utilities  
+- \data/data_generation.py\ - Synthetic multilingual data generation
+- \models/dpr_model.py\ - Dual encoder model architecture
+- \	raining/trainer.py\ - Main training pipeline with our innovations
+- \	raining/cluster_manager.py\ - SAC-ICT & ACR-ICT implementations
+- \	raining/loss_functions.py\ - Contrastive loss functions
+- \evaluation/evaluator.py\ - Retrieval evaluation metrics
+- \isualization/visualizer.py\ - Training analysis and plots
+- \main.py\ - Main execution script
+- \un_training.py\ - Simplified training runner
 
 ## 🛠️ Quick Start
 
@@ -64,12 +79,26 @@ pip install -r requirements.txt
 python run_training.py
 \\\
 
+### Expected Output
+\\\
+🚀 Starting Multilingual DPR Training Environment
+✅ PyTorch version: 2.0.1
+✅ CUDA available: True
+📚 Loading data...
+✅ Generated 500 synthetic queries and 2000 passages
+🤖 Initializing model...
+🎯 Starting training with our innovations...
+⭐ Epoch 1/8 - Performing semantic clustering...
+✅ Training completed! Check outputs in: ./outputs
+\\\
+
 ## 📊 Performance Features
 
 - **Smart Cluster Growth**: 200 → 500 clusters over training
 - **Intelligent Refresh**: Only when significant learning detected  
 - **Efficient Computation**: 55% fewer clustering operations
 - **8 Languages**: EN, DE, FR, ES, AR, KO, JA, ZH
+- **Cross-lingual Retrieval**: True semantic matching across languages
 
 ## 🎯 Key Results
 
@@ -80,6 +109,31 @@ python run_training.py
 
 **55% reduction in clustering operations with improved performance!**
 
+## 🔧 Configuration
+
+Modify \config/training_config.py\ for:
+- Model architecture choices
+- Training hyperparameters  
+- Clustering strategies (SAC-ICT parameters)
+- Refresh thresholds (ACR-ICT parameters)
+- Evaluation metrics
+
+## 📈 Visualization
+
+The framework automatically generates:
+- Training loss curves
+- Cluster evolution graphs  
+- Performance comparisons
+- Multilingual analysis
+
 ## 📄 License
 
-MIT License - see LICENSE file for details.
+MIT License - see [LICENSE](LICENSE) file for details.
+
+## 🤝 Contributing
+
+Contributions welcome! Please feel free to submit a Pull Request.
+
+---
+
+**Repository**: [https://github.com/siri27d/multilingual-dpr](https://github.com/siri27d/multilingual-dpr)
