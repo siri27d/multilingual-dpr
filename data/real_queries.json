@@ -1,0 +1,4502 @@
+[
+  {
+    "query_id": 0,
+    "language": "ko",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1715
+    ]
+  },
+  {
+    "query_id": 1,
+    "language": "ar",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      961
+    ]
+  },
+  {
+    "query_id": 2,
+    "language": "fr",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1107
+    ]
+  },
+  {
+    "query_id": 3,
+    "language": "ar",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1388
+    ]
+  },
+  {
+    "query_id": 4,
+    "language": "ko",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1402
+    ]
+  },
+  {
+    "query_id": 5,
+    "language": "de",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      742
+    ]
+  },
+  {
+    "query_id": 6,
+    "language": "ja",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1830
+    ]
+  },
+  {
+    "query_id": 7,
+    "language": "fr",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      170
+    ]
+  },
+  {
+    "query_id": 8,
+    "language": "zh",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      247
+    ]
+  },
+  {
+    "query_id": 9,
+    "language": "en",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      120
+    ]
+  },
+  {
+    "query_id": 10,
+    "language": "zh",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      566
+    ]
+  },
+  {
+    "query_id": 11,
+    "language": "ja",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      512
+    ]
+  },
+  {
+    "query_id": 12,
+    "language": "fr",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1094
+    ]
+  },
+  {
+    "query_id": 13,
+    "language": "ja",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      218
+    ]
+  },
+  {
+    "query_id": 14,
+    "language": "en",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1230
+    ]
+  },
+  {
+    "query_id": 15,
+    "language": "ko",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      55
+    ]
+  },
+  {
+    "query_id": 16,
+    "language": "es",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1764
+    ]
+  },
+  {
+    "query_id": 17,
+    "language": "en",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1110
+    ]
+  },
+  {
+    "query_id": 18,
+    "language": "zh",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1401
+    ]
+  },
+  {
+    "query_id": 19,
+    "language": "fr",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      465
+    ]
+  },
+  {
+    "query_id": 20,
+    "language": "zh",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      826
+    ]
+  },
+  {
+    "query_id": 21,
+    "language": "zh",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1747
+    ]
+  },
+  {
+    "query_id": 22,
+    "language": "de",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      744
+    ]
+  },
+  {
+    "query_id": 23,
+    "language": "es",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1986
+    ]
+  },
+  {
+    "query_id": 24,
+    "language": "ko",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1810
+    ]
+  },
+  {
+    "query_id": 25,
+    "language": "de",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      427
+    ]
+  },
+  {
+    "query_id": 26,
+    "language": "zh",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      399
+    ]
+  },
+  {
+    "query_id": 27,
+    "language": "de",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1990
+    ]
+  },
+  {
+    "query_id": 28,
+    "language": "ko",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1771
+    ]
+  },
+  {
+    "query_id": 29,
+    "language": "ar",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1317
+    ]
+  },
+  {
+    "query_id": 30,
+    "language": "es",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      944
+    ]
+  },
+  {
+    "query_id": 31,
+    "language": "fr",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      418
+    ]
+  },
+  {
+    "query_id": 32,
+    "language": "ar",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      381
+    ]
+  },
+  {
+    "query_id": 33,
+    "language": "de",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      667
+    ]
+  },
+  {
+    "query_id": 34,
+    "language": "de",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1583
+    ]
+  },
+  {
+    "query_id": 35,
+    "language": "fr",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1353
+    ]
+  },
+  {
+    "query_id": 36,
+    "language": "ko",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      658
+    ]
+  },
+  {
+    "query_id": 37,
+    "language": "ar",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1313
+    ]
+  },
+  {
+    "query_id": 38,
+    "language": "fr",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      610
+    ]
+  },
+  {
+    "query_id": 39,
+    "language": "zh",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1663
+    ]
+  },
+  {
+    "query_id": 40,
+    "language": "de",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1269
+    ]
+  },
+  {
+    "query_id": 41,
+    "language": "zh",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      519
+    ]
+  },
+  {
+    "query_id": 42,
+    "language": "ko",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      834
+    ]
+  },
+  {
+    "query_id": 43,
+    "language": "ja",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      404
+    ]
+  },
+  {
+    "query_id": 44,
+    "language": "fr",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      880
+    ]
+  },
+  {
+    "query_id": 45,
+    "language": "fr",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1411
+    ]
+  },
+  {
+    "query_id": 46,
+    "language": "es",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      822
+    ]
+  },
+  {
+    "query_id": 47,
+    "language": "es",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      513
+    ]
+  },
+  {
+    "query_id": 48,
+    "language": "ar",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      222
+    ]
+  },
+  {
+    "query_id": 49,
+    "language": "en",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      51
+    ]
+  },
+  {
+    "query_id": 50,
+    "language": "fr",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      600
+    ]
+  },
+  {
+    "query_id": 51,
+    "language": "ko",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1160
+    ]
+  },
+  {
+    "query_id": 52,
+    "language": "ja",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1211
+    ]
+  },
+  {
+    "query_id": 53,
+    "language": "en",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1608
+    ]
+  },
+  {
+    "query_id": 54,
+    "language": "en",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      565
+    ]
+  },
+  {
+    "query_id": 55,
+    "language": "ja",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1996
+    ]
+  },
+  {
+    "query_id": 56,
+    "language": "ja",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1664
+    ]
+  },
+  {
+    "query_id": 57,
+    "language": "de",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1043
+    ]
+  },
+  {
+    "query_id": 58,
+    "language": "de",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      705
+    ]
+  },
+  {
+    "query_id": 59,
+    "language": "ja",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      720
+    ]
+  },
+  {
+    "query_id": 60,
+    "language": "de",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1545
+    ]
+  },
+  {
+    "query_id": 61,
+    "language": "en",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      450
+    ]
+  },
+  {
+    "query_id": 62,
+    "language": "ja",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1061
+    ]
+  },
+  {
+    "query_id": 63,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      825
+    ]
+  },
+  {
+    "query_id": 64,
+    "language": "es",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1794
+    ]
+  },
+  {
+    "query_id": 65,
+    "language": "de",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1252
+    ]
+  },
+  {
+    "query_id": 66,
+    "language": "fr",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      556
+    ]
+  },
+  {
+    "query_id": 67,
+    "language": "ar",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      202
+    ]
+  },
+  {
+    "query_id": 68,
+    "language": "en",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1013
+    ]
+  },
+  {
+    "query_id": 69,
+    "language": "ko",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      834
+    ]
+  },
+  {
+    "query_id": 70,
+    "language": "fr",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1539
+    ]
+  },
+  {
+    "query_id": 71,
+    "language": "ar",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1075
+    ]
+  },
+  {
+    "query_id": 72,
+    "language": "ko",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      78
+    ]
+  },
+  {
+    "query_id": 73,
+    "language": "es",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      241
+    ]
+  },
+  {
+    "query_id": 74,
+    "language": "es",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1327
+    ]
+  },
+  {
+    "query_id": 75,
+    "language": "zh",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      943
+    ]
+  },
+  {
+    "query_id": 76,
+    "language": "ja",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      177
+    ]
+  },
+  {
+    "query_id": 77,
+    "language": "zh",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      356
+    ]
+  },
+  {
+    "query_id": 78,
+    "language": "ar",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      579
+    ]
+  },
+  {
+    "query_id": 79,
+    "language": "es",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1176
+    ]
+  },
+  {
+    "query_id": 80,
+    "language": "fr",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      66
+    ]
+  },
+  {
+    "query_id": 81,
+    "language": "zh",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      738
+    ]
+  },
+  {
+    "query_id": 82,
+    "language": "ja",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      956
+    ]
+  },
+  {
+    "query_id": 83,
+    "language": "en",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      852
+    ]
+  },
+  {
+    "query_id": 84,
+    "language": "fr",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1768
+    ]
+  },
+  {
+    "query_id": 85,
+    "language": "ko",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      700
+    ]
+  },
+  {
+    "query_id": 86,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1481
+    ]
+  },
+  {
+    "query_id": 87,
+    "language": "de",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1381
+    ]
+  },
+  {
+    "query_id": 88,
+    "language": "es",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      636
+    ]
+  },
+  {
+    "query_id": 89,
+    "language": "de",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      112
+    ]
+  },
+  {
+    "query_id": 90,
+    "language": "fr",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      782
+    ]
+  },
+  {
+    "query_id": 91,
+    "language": "es",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      815
+    ]
+  },
+  {
+    "query_id": 92,
+    "language": "ar",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1954
+    ]
+  },
+  {
+    "query_id": 93,
+    "language": "ja",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1504
+    ]
+  },
+  {
+    "query_id": 94,
+    "language": "de",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1587
+    ]
+  },
+  {
+    "query_id": 95,
+    "language": "ar",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      887
+    ]
+  },
+  {
+    "query_id": 96,
+    "language": "ja",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      218
+    ]
+  },
+  {
+    "query_id": 97,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      456
+    ]
+  },
+  {
+    "query_id": 98,
+    "language": "ja",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      720
+    ]
+  },
+  {
+    "query_id": 99,
+    "language": "ko",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      367
+    ]
+  },
+  {
+    "query_id": 100,
+    "language": "ar",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1873
+    ]
+  },
+  {
+    "query_id": 101,
+    "language": "zh",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      14
+    ]
+  },
+  {
+    "query_id": 102,
+    "language": "ja",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1328
+    ]
+  },
+  {
+    "query_id": 103,
+    "language": "ko",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1210
+    ]
+  },
+  {
+    "query_id": 104,
+    "language": "zh",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      281
+    ]
+  },
+  {
+    "query_id": 105,
+    "language": "ja",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      290
+    ]
+  },
+  {
+    "query_id": 106,
+    "language": "zh",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1270
+    ]
+  },
+  {
+    "query_id": 107,
+    "language": "ar",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      231
+    ]
+  },
+  {
+    "query_id": 108,
+    "language": "de",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1122
+    ]
+  },
+  {
+    "query_id": 109,
+    "language": "zh",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      855
+    ]
+  },
+  {
+    "query_id": 110,
+    "language": "ja",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      718
+    ]
+  },
+  {
+    "query_id": 111,
+    "language": "de",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1730
+    ]
+  },
+  {
+    "query_id": 112,
+    "language": "de",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1791
+    ]
+  },
+  {
+    "query_id": 113,
+    "language": "ko",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1047
+    ]
+  },
+  {
+    "query_id": 114,
+    "language": "ja",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1799
+    ]
+  },
+  {
+    "query_id": 115,
+    "language": "en",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1225
+    ]
+  },
+  {
+    "query_id": 116,
+    "language": "es",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      783
+    ]
+  },
+  {
+    "query_id": 117,
+    "language": "ar",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1235
+    ]
+  },
+  {
+    "query_id": 118,
+    "language": "es",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1260
+    ]
+  },
+  {
+    "query_id": 119,
+    "language": "de",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1806
+    ]
+  },
+  {
+    "query_id": 120,
+    "language": "en",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1147
+    ]
+  },
+  {
+    "query_id": 121,
+    "language": "de",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      337
+    ]
+  },
+  {
+    "query_id": 122,
+    "language": "zh",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1015
+    ]
+  },
+  {
+    "query_id": 123,
+    "language": "ar",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1062
+    ]
+  },
+  {
+    "query_id": 124,
+    "language": "de",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1
+    ]
+  },
+  {
+    "query_id": 125,
+    "language": "fr",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      508
+    ]
+  },
+  {
+    "query_id": 126,
+    "language": "es",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1834
+    ]
+  },
+  {
+    "query_id": 127,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1675
+    ]
+  },
+  {
+    "query_id": 128,
+    "language": "en",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1497
+    ]
+  },
+  {
+    "query_id": 129,
+    "language": "es",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1563
+    ]
+  },
+  {
+    "query_id": 130,
+    "language": "ko",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1962
+    ]
+  },
+  {
+    "query_id": 131,
+    "language": "ar",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      585
+    ]
+  },
+  {
+    "query_id": 132,
+    "language": "zh",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      514
+    ]
+  },
+  {
+    "query_id": 133,
+    "language": "ja",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      341
+    ]
+  },
+  {
+    "query_id": 134,
+    "language": "fr",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1667
+    ]
+  },
+  {
+    "query_id": 135,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1616
+    ]
+  },
+  {
+    "query_id": 136,
+    "language": "es",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1434
+    ]
+  },
+  {
+    "query_id": 137,
+    "language": "es",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      561
+    ]
+  },
+  {
+    "query_id": 138,
+    "language": "en",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      145
+    ]
+  },
+  {
+    "query_id": 139,
+    "language": "zh",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      462
+    ]
+  },
+  {
+    "query_id": 140,
+    "language": "es",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1243
+    ]
+  },
+  {
+    "query_id": 141,
+    "language": "ar",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      41
+    ]
+  },
+  {
+    "query_id": 142,
+    "language": "ar",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1636
+    ]
+  },
+  {
+    "query_id": 143,
+    "language": "de",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1406
+    ]
+  },
+  {
+    "query_id": 144,
+    "language": "ja",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      562
+    ]
+  },
+  {
+    "query_id": 145,
+    "language": "ko",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1512
+    ]
+  },
+  {
+    "query_id": 146,
+    "language": "fr",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      891
+    ]
+  },
+  {
+    "query_id": 147,
+    "language": "ar",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      56
+    ]
+  },
+  {
+    "query_id": 148,
+    "language": "ar",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1091
+    ]
+  },
+  {
+    "query_id": 149,
+    "language": "zh",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1419
+    ]
+  },
+  {
+    "query_id": 150,
+    "language": "fr",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1330
+    ]
+  },
+  {
+    "query_id": 151,
+    "language": "zh",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      352
+    ]
+  },
+  {
+    "query_id": 152,
+    "language": "ko",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1127
+    ]
+  },
+  {
+    "query_id": 153,
+    "language": "zh",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1732
+    ]
+  },
+  {
+    "query_id": 154,
+    "language": "en",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1900
+    ]
+  },
+  {
+    "query_id": 155,
+    "language": "ar",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      420
+    ]
+  },
+  {
+    "query_id": 156,
+    "language": "de",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1221
+    ]
+  },
+  {
+    "query_id": 157,
+    "language": "ar",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      420
+    ]
+  },
+  {
+    "query_id": 158,
+    "language": "fr",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1509
+    ]
+  },
+  {
+    "query_id": 159,
+    "language": "ja",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1239
+    ]
+  },
+  {
+    "query_id": 160,
+    "language": "ko",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1111
+    ]
+  },
+  {
+    "query_id": 161,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      832
+    ]
+  },
+  {
+    "query_id": 162,
+    "language": "zh",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      264
+    ]
+  },
+  {
+    "query_id": 163,
+    "language": "es",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1770
+    ]
+  },
+  {
+    "query_id": 164,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      456
+    ]
+  },
+  {
+    "query_id": 165,
+    "language": "es",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      561
+    ]
+  },
+  {
+    "query_id": 166,
+    "language": "es",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1378
+    ]
+  },
+  {
+    "query_id": 167,
+    "language": "ko",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1011
+    ]
+  },
+  {
+    "query_id": 168,
+    "language": "de",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      977
+    ]
+  },
+  {
+    "query_id": 169,
+    "language": "de",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      425
+    ]
+  },
+  {
+    "query_id": 170,
+    "language": "fr",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1116
+    ]
+  },
+  {
+    "query_id": 171,
+    "language": "de",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1291
+    ]
+  },
+  {
+    "query_id": 172,
+    "language": "de",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1515
+    ]
+  },
+  {
+    "query_id": 173,
+    "language": "fr",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      84
+    ]
+  },
+  {
+    "query_id": 174,
+    "language": "ar",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      774
+    ]
+  },
+  {
+    "query_id": 175,
+    "language": "ko",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      269
+    ]
+  },
+  {
+    "query_id": 176,
+    "language": "fr",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      405
+    ]
+  },
+  {
+    "query_id": 177,
+    "language": "es",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1322
+    ]
+  },
+  {
+    "query_id": 178,
+    "language": "de",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1462
+    ]
+  },
+  {
+    "query_id": 179,
+    "language": "zh",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1961
+    ]
+  },
+  {
+    "query_id": 180,
+    "language": "fr",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      668
+    ]
+  },
+  {
+    "query_id": 181,
+    "language": "ja",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      341
+    ]
+  },
+  {
+    "query_id": 182,
+    "language": "de",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      488
+    ]
+  },
+  {
+    "query_id": 183,
+    "language": "ja",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1805
+    ]
+  },
+  {
+    "query_id": 184,
+    "language": "en",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      51
+    ]
+  },
+  {
+    "query_id": 185,
+    "language": "ja",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1656
+    ]
+  },
+  {
+    "query_id": 186,
+    "language": "ko",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1644
+    ]
+  },
+  {
+    "query_id": 187,
+    "language": "es",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1456
+    ]
+  },
+  {
+    "query_id": 188,
+    "language": "de",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      742
+    ]
+  },
+  {
+    "query_id": 189,
+    "language": "es",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      665
+    ]
+  },
+  {
+    "query_id": 190,
+    "language": "es",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1764
+    ]
+  },
+  {
+    "query_id": 191,
+    "language": "en",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1295
+    ]
+  },
+  {
+    "query_id": 192,
+    "language": "de",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1412
+    ]
+  },
+  {
+    "query_id": 193,
+    "language": "ko",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      102
+    ]
+  },
+  {
+    "query_id": 194,
+    "language": "en",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      51
+    ]
+  },
+  {
+    "query_id": 195,
+    "language": "en",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      820
+    ]
+  },
+  {
+    "query_id": 196,
+    "language": "ar",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1314
+    ]
+  },
+  {
+    "query_id": 197,
+    "language": "ja",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      290
+    ]
+  },
+  {
+    "query_id": 198,
+    "language": "zh",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      855
+    ]
+  },
+  {
+    "query_id": 199,
+    "language": "ja",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      871
+    ]
+  },
+  {
+    "query_id": 200,
+    "language": "ar",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      716
+    ]
+  },
+  {
+    "query_id": 201,
+    "language": "ja",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1358
+    ]
+  },
+  {
+    "query_id": 202,
+    "language": "es",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      669
+    ]
+  },
+  {
+    "query_id": 203,
+    "language": "es",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1779
+    ]
+  },
+  {
+    "query_id": 204,
+    "language": "fr",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      539
+    ]
+  },
+  {
+    "query_id": 205,
+    "language": "en",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1306
+    ]
+  },
+  {
+    "query_id": 206,
+    "language": "en",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1432
+    ]
+  },
+  {
+    "query_id": 207,
+    "language": "ar",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      414
+    ]
+  },
+  {
+    "query_id": 208,
+    "language": "ko",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      701
+    ]
+  },
+  {
+    "query_id": 209,
+    "language": "en",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      375
+    ]
+  },
+  {
+    "query_id": 210,
+    "language": "ar",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1599
+    ]
+  },
+  {
+    "query_id": 211,
+    "language": "ar",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1242
+    ]
+  },
+  {
+    "query_id": 212,
+    "language": "en",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      429
+    ]
+  },
+  {
+    "query_id": 213,
+    "language": "en",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1647
+    ]
+  },
+  {
+    "query_id": 214,
+    "language": "ko",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      528
+    ]
+  },
+  {
+    "query_id": 215,
+    "language": "ar",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      509
+    ]
+  },
+  {
+    "query_id": 216,
+    "language": "zh",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      907
+    ]
+  },
+  {
+    "query_id": 217,
+    "language": "de",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      799
+    ]
+  },
+  {
+    "query_id": 218,
+    "language": "de",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1035
+    ]
+  },
+  {
+    "query_id": 219,
+    "language": "en",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      205
+    ]
+  },
+  {
+    "query_id": 220,
+    "language": "ko",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1180
+    ]
+  },
+  {
+    "query_id": 221,
+    "language": "es",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1811
+    ]
+  },
+  {
+    "query_id": 222,
+    "language": "fr",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1643
+    ]
+  },
+  {
+    "query_id": 223,
+    "language": "de",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1548
+    ]
+  },
+  {
+    "query_id": 224,
+    "language": "ja",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1835
+    ]
+  },
+  {
+    "query_id": 225,
+    "language": "ko",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      398
+    ]
+  },
+  {
+    "query_id": 226,
+    "language": "zh",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      507
+    ]
+  },
+  {
+    "query_id": 227,
+    "language": "fr",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      957
+    ]
+  },
+  {
+    "query_id": 228,
+    "language": "ja",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1211
+    ]
+  },
+  {
+    "query_id": 229,
+    "language": "fr",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      867
+    ]
+  },
+  {
+    "query_id": 230,
+    "language": "ja",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      653
+    ]
+  },
+  {
+    "query_id": 231,
+    "language": "zh",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      264
+    ]
+  },
+  {
+    "query_id": 232,
+    "language": "ko",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      121
+    ]
+  },
+  {
+    "query_id": 233,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      316
+    ]
+  },
+  {
+    "query_id": 234,
+    "language": "zh",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      180
+    ]
+  },
+  {
+    "query_id": 235,
+    "language": "ko",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1521
+    ]
+  },
+  {
+    "query_id": 236,
+    "language": "en",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      680
+    ]
+  },
+  {
+    "query_id": 237,
+    "language": "fr",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1539
+    ]
+  },
+  {
+    "query_id": 238,
+    "language": "ja",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1504
+    ]
+  },
+  {
+    "query_id": 239,
+    "language": "de",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1899
+    ]
+  },
+  {
+    "query_id": 240,
+    "language": "en",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1749
+    ]
+  },
+  {
+    "query_id": 241,
+    "language": "de",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      10
+    ]
+  },
+  {
+    "query_id": 242,
+    "language": "es",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1971
+    ]
+  },
+  {
+    "query_id": 243,
+    "language": "ko",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      436
+    ]
+  },
+  {
+    "query_id": 244,
+    "language": "ko",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1746
+    ]
+  },
+  {
+    "query_id": 245,
+    "language": "de",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1458
+    ]
+  },
+  {
+    "query_id": 246,
+    "language": "fr",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1667
+    ]
+  },
+  {
+    "query_id": 247,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1216
+    ]
+  },
+  {
+    "query_id": 248,
+    "language": "zh",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1213
+    ]
+  },
+  {
+    "query_id": 249,
+    "language": "fr",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      975
+    ]
+  },
+  {
+    "query_id": 250,
+    "language": "de",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1357
+    ]
+  },
+  {
+    "query_id": 251,
+    "language": "ar",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      288
+    ]
+  },
+  {
+    "query_id": 252,
+    "language": "fr",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1505
+    ]
+  },
+  {
+    "query_id": 253,
+    "language": "fr",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      546
+    ]
+  },
+  {
+    "query_id": 254,
+    "language": "ko",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      810
+    ]
+  },
+  {
+    "query_id": 255,
+    "language": "es",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1834
+    ]
+  },
+  {
+    "query_id": 256,
+    "language": "ar",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1513
+    ]
+  },
+  {
+    "query_id": 257,
+    "language": "zh",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      129
+    ]
+  },
+  {
+    "query_id": 258,
+    "language": "de",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      49
+    ]
+  },
+  {
+    "query_id": 259,
+    "language": "ar",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1557
+    ]
+  },
+  {
+    "query_id": 260,
+    "language": "de",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      977
+    ]
+  },
+  {
+    "query_id": 261,
+    "language": "ko",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1715
+    ]
+  },
+  {
+    "query_id": 262,
+    "language": "zh",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      895
+    ]
+  },
+  {
+    "query_id": 263,
+    "language": "zh",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      750
+    ]
+  },
+  {
+    "query_id": 264,
+    "language": "ja",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      899
+    ]
+  },
+  {
+    "query_id": 265,
+    "language": "ja",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1875
+    ]
+  },
+  {
+    "query_id": 266,
+    "language": "fr",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1883
+    ]
+  },
+  {
+    "query_id": 267,
+    "language": "ko",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1256
+    ]
+  },
+  {
+    "query_id": 268,
+    "language": "ar",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      910
+    ]
+  },
+  {
+    "query_id": 269,
+    "language": "ar",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1317
+    ]
+  },
+  {
+    "query_id": 270,
+    "language": "ar",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      266
+    ]
+  },
+  {
+    "query_id": 271,
+    "language": "en",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      708
+    ]
+  },
+  {
+    "query_id": 272,
+    "language": "de",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1627
+    ]
+  },
+  {
+    "query_id": 273,
+    "language": "fr",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1745
+    ]
+  },
+  {
+    "query_id": 274,
+    "language": "es",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      524
+    ]
+  },
+  {
+    "query_id": 275,
+    "language": "ko",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1031
+    ]
+  },
+  {
+    "query_id": 276,
+    "language": "de",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      94
+    ]
+  },
+  {
+    "query_id": 277,
+    "language": "ja",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1067
+    ]
+  },
+  {
+    "query_id": 278,
+    "language": "de",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      640
+    ]
+  },
+  {
+    "query_id": 279,
+    "language": "ar",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1099
+    ]
+  },
+  {
+    "query_id": 280,
+    "language": "ar",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      496
+    ]
+  },
+  {
+    "query_id": 281,
+    "language": "ar",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1579
+    ]
+  },
+  {
+    "query_id": 282,
+    "language": "ar",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      110
+    ]
+  },
+  {
+    "query_id": 283,
+    "language": "ko",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1916
+    ]
+  },
+  {
+    "query_id": 284,
+    "language": "fr",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      914
+    ]
+  },
+  {
+    "query_id": 285,
+    "language": "ko",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      359
+    ]
+  },
+  {
+    "query_id": 286,
+    "language": "ar",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1767
+    ]
+  },
+  {
+    "query_id": 287,
+    "language": "en",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      558
+    ]
+  },
+  {
+    "query_id": 288,
+    "language": "en",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      872
+    ]
+  },
+  {
+    "query_id": 289,
+    "language": "ja",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1565
+    ]
+  },
+  {
+    "query_id": 290,
+    "language": "de",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      667
+    ]
+  },
+  {
+    "query_id": 291,
+    "language": "ja",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      791
+    ]
+  },
+  {
+    "query_id": 292,
+    "language": "en",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1306
+    ]
+  },
+  {
+    "query_id": 293,
+    "language": "fr",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      317
+    ]
+  },
+  {
+    "query_id": 294,
+    "language": "ar",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      885
+    ]
+  },
+  {
+    "query_id": 295,
+    "language": "ar",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      860
+    ]
+  },
+  {
+    "query_id": 296,
+    "language": "ar",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1235
+    ]
+  },
+  {
+    "query_id": 297,
+    "language": "fr",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1123
+    ]
+  },
+  {
+    "query_id": 298,
+    "language": "en",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      609
+    ]
+  },
+  {
+    "query_id": 299,
+    "language": "ja",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1120
+    ]
+  },
+  {
+    "query_id": 300,
+    "language": "de",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1065
+    ]
+  },
+  {
+    "query_id": 301,
+    "language": "de",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1412
+    ]
+  },
+  {
+    "query_id": 302,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      978
+    ]
+  },
+  {
+    "query_id": 303,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      789
+    ]
+  },
+  {
+    "query_id": 304,
+    "language": "es",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1157
+    ]
+  },
+  {
+    "query_id": 305,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1675
+    ]
+  },
+  {
+    "query_id": 306,
+    "language": "de",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1174
+    ]
+  },
+  {
+    "query_id": 307,
+    "language": "ar",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      18
+    ]
+  },
+  {
+    "query_id": 308,
+    "language": "ar",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1193
+    ]
+  },
+  {
+    "query_id": 309,
+    "language": "zh",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      859
+    ]
+  },
+  {
+    "query_id": 310,
+    "language": "de",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1430
+    ]
+  },
+  {
+    "query_id": 311,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      185
+    ]
+  },
+  {
+    "query_id": 312,
+    "language": "ar",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1700
+    ]
+  },
+  {
+    "query_id": 313,
+    "language": "en",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1306
+    ]
+  },
+  {
+    "query_id": 314,
+    "language": "de",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1712
+    ]
+  },
+  {
+    "query_id": 315,
+    "language": "ar",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      655
+    ]
+  },
+  {
+    "query_id": 316,
+    "language": "fr",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      457
+    ]
+  },
+  {
+    "query_id": 317,
+    "language": "es",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1098
+    ]
+  },
+  {
+    "query_id": 318,
+    "language": "es",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      868
+    ]
+  },
+  {
+    "query_id": 319,
+    "language": "zh",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      273
+    ]
+  },
+  {
+    "query_id": 320,
+    "language": "ar",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      366
+    ]
+  },
+  {
+    "query_id": 321,
+    "language": "ja",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1511
+    ]
+  },
+  {
+    "query_id": 322,
+    "language": "ko",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      489
+    ]
+  },
+  {
+    "query_id": 323,
+    "language": "es",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1018
+    ]
+  },
+  {
+    "query_id": 324,
+    "language": "fr",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      328
+    ]
+  },
+  {
+    "query_id": 325,
+    "language": "ko",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      225
+    ]
+  },
+  {
+    "query_id": 326,
+    "language": "es",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      778
+    ]
+  },
+  {
+    "query_id": 327,
+    "language": "ko",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1833
+    ]
+  },
+  {
+    "query_id": 328,
+    "language": "de",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1208
+    ]
+  },
+  {
+    "query_id": 329,
+    "language": "en",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1379
+    ]
+  },
+  {
+    "query_id": 330,
+    "language": "ar",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1388
+    ]
+  },
+  {
+    "query_id": 331,
+    "language": "fr",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      668
+    ]
+  },
+  {
+    "query_id": 332,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      316
+    ]
+  },
+  {
+    "query_id": 333,
+    "language": "de",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      967
+    ]
+  },
+  {
+    "query_id": 334,
+    "language": "de",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1458
+    ]
+  },
+  {
+    "query_id": 335,
+    "language": "ar",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      252
+    ]
+  },
+  {
+    "query_id": 336,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1171
+    ]
+  },
+  {
+    "query_id": 337,
+    "language": "fr",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1901
+    ]
+  },
+  {
+    "query_id": 338,
+    "language": "ko",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1829
+    ]
+  },
+  {
+    "query_id": 339,
+    "language": "de",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      594
+    ]
+  },
+  {
+    "query_id": 340,
+    "language": "zh",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      939
+    ]
+  },
+  {
+    "query_id": 341,
+    "language": "de",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1065
+    ]
+  },
+  {
+    "query_id": 342,
+    "language": "zh",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      239
+    ]
+  },
+  {
+    "query_id": 343,
+    "language": "ja",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      216
+    ]
+  },
+  {
+    "query_id": 344,
+    "language": "de",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1836
+    ]
+  },
+  {
+    "query_id": 345,
+    "language": "zh",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      527
+    ]
+  },
+  {
+    "query_id": 346,
+    "language": "es",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1998
+    ]
+  },
+  {
+    "query_id": 347,
+    "language": "ko",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1804
+    ]
+  },
+  {
+    "query_id": 348,
+    "language": "fr",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      234
+    ]
+  },
+  {
+    "query_id": 349,
+    "language": "en",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1651
+    ]
+  },
+  {
+    "query_id": 350,
+    "language": "en",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      476
+    ]
+  },
+  {
+    "query_id": 351,
+    "language": "zh",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1080
+    ]
+  },
+  {
+    "query_id": 352,
+    "language": "ja",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1887
+    ]
+  },
+  {
+    "query_id": 353,
+    "language": "de",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1899
+    ]
+  },
+  {
+    "query_id": 354,
+    "language": "ko",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      479
+    ]
+  },
+  {
+    "query_id": 355,
+    "language": "ko",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1194
+    ]
+  },
+  {
+    "query_id": 356,
+    "language": "ja",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1805
+    ]
+  },
+  {
+    "query_id": 357,
+    "language": "ja",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1581
+    ]
+  },
+  {
+    "query_id": 358,
+    "language": "zh",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      796
+    ]
+  },
+  {
+    "query_id": 359,
+    "language": "zh",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      759
+    ]
+  },
+  {
+    "query_id": 360,
+    "language": "en",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1519
+    ]
+  },
+  {
+    "query_id": 361,
+    "language": "ja",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1955
+    ]
+  },
+  {
+    "query_id": 362,
+    "language": "fr",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1050
+    ]
+  },
+  {
+    "query_id": 363,
+    "language": "zh",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      287
+    ]
+  },
+  {
+    "query_id": 364,
+    "language": "de",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1681
+    ]
+  },
+  {
+    "query_id": 365,
+    "language": "es",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1445
+    ]
+  },
+  {
+    "query_id": 366,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1028
+    ]
+  },
+  {
+    "query_id": 367,
+    "language": "en",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      923
+    ]
+  },
+  {
+    "query_id": 368,
+    "language": "en",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      472
+    ]
+  },
+  {
+    "query_id": 369,
+    "language": "ja",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1966
+    ]
+  },
+  {
+    "query_id": 370,
+    "language": "en",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      965
+    ]
+  },
+  {
+    "query_id": 371,
+    "language": "es",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      449
+    ]
+  },
+  {
+    "query_id": 372,
+    "language": "es",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1051
+    ]
+  },
+  {
+    "query_id": 373,
+    "language": "es",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1322
+    ]
+  },
+  {
+    "query_id": 374,
+    "language": "ko",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      195
+    ]
+  },
+  {
+    "query_id": 375,
+    "language": "ar",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      288
+    ]
+  },
+  {
+    "query_id": 376,
+    "language": "ar",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1842
+    ]
+  },
+  {
+    "query_id": 377,
+    "language": "ko",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1227
+    ]
+  },
+  {
+    "query_id": 378,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1892
+    ]
+  },
+  {
+    "query_id": 379,
+    "language": "ar",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      106
+    ]
+  },
+  {
+    "query_id": 380,
+    "language": "es",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      576
+    ]
+  },
+  {
+    "query_id": 381,
+    "language": "zh",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1398
+    ]
+  },
+  {
+    "query_id": 382,
+    "language": "en",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1749
+    ]
+  },
+  {
+    "query_id": 383,
+    "language": "ko",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      984
+    ]
+  },
+  {
+    "query_id": 384,
+    "language": "fr",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1505
+    ]
+  },
+  {
+    "query_id": 385,
+    "language": "ja",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      837
+    ]
+  },
+  {
+    "query_id": 386,
+    "language": "ar",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      338
+    ]
+  },
+  {
+    "query_id": 387,
+    "language": "en",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      633
+    ]
+  },
+  {
+    "query_id": 388,
+    "language": "ko",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      115
+    ]
+  },
+  {
+    "query_id": 389,
+    "language": "ar",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1650
+    ]
+  },
+  {
+    "query_id": 390,
+    "language": "ko",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1286
+    ]
+  },
+  {
+    "query_id": 391,
+    "language": "zh",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1495
+    ]
+  },
+  {
+    "query_id": 392,
+    "language": "de",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1197
+    ]
+  },
+  {
+    "query_id": 393,
+    "language": "zh",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      612
+    ]
+  },
+  {
+    "query_id": 394,
+    "language": "en",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1303
+    ]
+  },
+  {
+    "query_id": 395,
+    "language": "fr",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      85
+    ]
+  },
+  {
+    "query_id": 396,
+    "language": "zh",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1383
+    ]
+  },
+  {
+    "query_id": 397,
+    "language": "zh",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      635
+    ]
+  },
+  {
+    "query_id": 398,
+    "language": "de",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1143
+    ]
+  },
+  {
+    "query_id": 399,
+    "language": "ja",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1755
+    ]
+  },
+  {
+    "query_id": 400,
+    "language": "fr",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      713
+    ]
+  },
+  {
+    "query_id": 401,
+    "language": "fr",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1416
+    ]
+  },
+  {
+    "query_id": 402,
+    "language": "fr",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1001
+    ]
+  },
+  {
+    "query_id": 403,
+    "language": "ko",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1168
+    ]
+  },
+  {
+    "query_id": 404,
+    "language": "en",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      329
+    ]
+  },
+  {
+    "query_id": 405,
+    "language": "ar",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1624
+    ]
+  },
+  {
+    "query_id": 406,
+    "language": "ko",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      434
+    ]
+  },
+  {
+    "query_id": 407,
+    "language": "ar",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1909
+    ]
+  },
+  {
+    "query_id": 408,
+    "language": "ja",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      518
+    ]
+  },
+  {
+    "query_id": 409,
+    "language": "ar",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      266
+    ]
+  },
+  {
+    "query_id": 410,
+    "language": "ko",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1310
+    ]
+  },
+  {
+    "query_id": 411,
+    "language": "ar",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1915
+    ]
+  },
+  {
+    "query_id": 412,
+    "language": "ko",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1356
+    ]
+  },
+  {
+    "query_id": 413,
+    "language": "ko",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1066
+    ]
+  },
+  {
+    "query_id": 414,
+    "language": "ja",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      152
+    ]
+  },
+  {
+    "query_id": 415,
+    "language": "de",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1943
+    ]
+  },
+  {
+    "query_id": 416,
+    "language": "ja",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1390
+    ]
+  },
+  {
+    "query_id": 417,
+    "language": "fr",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      348
+    ]
+  },
+  {
+    "query_id": 418,
+    "language": "ko",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      861
+    ]
+  },
+  {
+    "query_id": 419,
+    "language": "zh",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1308
+    ]
+  },
+  {
+    "query_id": 420,
+    "language": "es",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1584
+    ]
+  },
+  {
+    "query_id": 421,
+    "language": "en",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1569
+    ]
+  },
+  {
+    "query_id": 422,
+    "language": "de",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      875
+    ]
+  },
+  {
+    "query_id": 423,
+    "language": "zh",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      178
+    ]
+  },
+  {
+    "query_id": 424,
+    "language": "zh",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      796
+    ]
+  },
+  {
+    "query_id": 425,
+    "language": "ko",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      861
+    ]
+  },
+  {
+    "query_id": 426,
+    "language": "ja",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1101
+    ]
+  },
+  {
+    "query_id": 427,
+    "language": "fr",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1691
+    ]
+  },
+  {
+    "query_id": 428,
+    "language": "fr",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      867
+    ]
+  },
+  {
+    "query_id": 429,
+    "language": "ar",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      202
+    ]
+  },
+  {
+    "query_id": 430,
+    "language": "ar",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      579
+    ]
+  },
+  {
+    "query_id": 431,
+    "language": "zh",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1890
+    ]
+  },
+  {
+    "query_id": 432,
+    "language": "fr",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1107
+    ]
+  },
+  {
+    "query_id": 433,
+    "language": "zh",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      421
+    ]
+  },
+  {
+    "query_id": 434,
+    "language": "fr",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1107
+    ]
+  },
+  {
+    "query_id": 435,
+    "language": "de",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1252
+    ]
+  },
+  {
+    "query_id": 436,
+    "language": "en",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      569
+    ]
+  },
+  {
+    "query_id": 437,
+    "language": "ja",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1935
+    ]
+  },
+  {
+    "query_id": 438,
+    "language": "ar",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      275
+    ]
+  },
+  {
+    "query_id": 439,
+    "language": "fr",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1846
+    ]
+  },
+  {
+    "query_id": 440,
+    "language": "en",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1190
+    ]
+  },
+  {
+    "query_id": 441,
+    "language": "zh",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1917
+    ]
+  },
+  {
+    "query_id": 442,
+    "language": "fr",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      292
+    ]
+  },
+  {
+    "query_id": 443,
+    "language": "zh",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      238
+    ]
+  },
+  {
+    "query_id": 444,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      332
+    ]
+  },
+  {
+    "query_id": 445,
+    "language": "en",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      758
+    ]
+  },
+  {
+    "query_id": 446,
+    "language": "ja",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1841
+    ]
+  },
+  {
+    "query_id": 447,
+    "language": "de",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      903
+    ]
+  },
+  {
+    "query_id": 448,
+    "language": "ko",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1512
+    ]
+  },
+  {
+    "query_id": 449,
+    "language": "fr",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      548
+    ]
+  },
+  {
+    "query_id": 450,
+    "language": "de",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      544
+    ]
+  },
+  {
+    "query_id": 451,
+    "language": "de",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1748
+    ]
+  },
+  {
+    "query_id": 452,
+    "language": "de",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1297
+    ]
+  },
+  {
+    "query_id": 453,
+    "language": "de",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1178
+    ]
+  },
+  {
+    "query_id": 454,
+    "language": "zh",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      197
+    ]
+  },
+  {
+    "query_id": 455,
+    "language": "es",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      730
+    ]
+  },
+  {
+    "query_id": 456,
+    "language": "fr",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      328
+    ]
+  },
+  {
+    "query_id": 457,
+    "language": "ja",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1328
+    ]
+  },
+  {
+    "query_id": 458,
+    "language": "ar",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1700
+    ]
+  },
+  {
+    "query_id": 459,
+    "language": "zh",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1340
+    ]
+  },
+  {
+    "query_id": 460,
+    "language": "ja",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1827
+    ]
+  },
+  {
+    "query_id": 461,
+    "language": "de",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1979
+    ]
+  },
+  {
+    "query_id": 462,
+    "language": "de",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      425
+    ]
+  },
+  {
+    "query_id": 463,
+    "language": "fr",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1064
+    ]
+  },
+  {
+    "query_id": 464,
+    "language": "fr",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1698
+    ]
+  },
+  {
+    "query_id": 465,
+    "language": "de",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1169
+    ]
+  },
+  {
+    "query_id": 466,
+    "language": "de",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1338
+    ]
+  },
+  {
+    "query_id": 467,
+    "language": "fr",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1126
+    ]
+  },
+  {
+    "query_id": 468,
+    "language": "en",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1553
+    ]
+  },
+  {
+    "query_id": 469,
+    "language": "fr",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1768
+    ]
+  },
+  {
+    "query_id": 470,
+    "language": "ja",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      769
+    ]
+  },
+  {
+    "query_id": 471,
+    "language": "de",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1881
+    ]
+  },
+  {
+    "query_id": 472,
+    "language": "es",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1811
+    ]
+  },
+  {
+    "query_id": 473,
+    "language": "es",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1494
+    ]
+  },
+  {
+    "query_id": 474,
+    "language": "ko",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      921
+    ]
+  },
+  {
+    "query_id": 475,
+    "language": "fr",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      77
+    ]
+  },
+  {
+    "query_id": 476,
+    "language": "en",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      156
+    ]
+  },
+  {
+    "query_id": 477,
+    "language": "es",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1046
+    ]
+  },
+  {
+    "query_id": 478,
+    "language": "es",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1162
+    ]
+  },
+  {
+    "query_id": 479,
+    "language": "es",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      490
+    ]
+  },
+  {
+    "query_id": 480,
+    "language": "fr",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      866
+    ]
+  },
+  {
+    "query_id": 481,
+    "language": "ja",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      720
+    ]
+  },
+  {
+    "query_id": 482,
+    "language": "ar",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      1198
+    ]
+  },
+  {
+    "query_id": 483,
+    "language": "en",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      1716
+    ]
+  },
+  {
+    "query_id": 484,
+    "language": "ja",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1489
+    ]
+  },
+  {
+    "query_id": 485,
+    "language": "ja",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1966
+    ]
+  },
+  {
+    "query_id": 486,
+    "language": "zh",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      574
+    ]
+  },
+  {
+    "query_id": 487,
+    "language": "fr",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      1883
+    ]
+  },
+  {
+    "query_id": 488,
+    "language": "es",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      822
+    ]
+  },
+  {
+    "query_id": 489,
+    "language": "ar",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      366
+    ]
+  },
+  {
+    "query_id": 490,
+    "language": "fr",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      840
+    ]
+  },
+  {
+    "query_id": 491,
+    "language": "en",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      1736
+    ]
+  },
+  {
+    "query_id": 492,
+    "language": "ko",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      545
+    ]
+  },
+  {
+    "query_id": 493,
+    "language": "ko",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      1134
+    ]
+  },
+  {
+    "query_id": 494,
+    "language": "zh",
+    "topic": "renewable energy",
+    "query": "What are the major developments in renewable energy?",
+    "relevant_passages": [
+      1401
+    ]
+  },
+  {
+    "query_id": 495,
+    "language": "en",
+    "topic": "space exploration",
+    "query": "What are the major developments in space exploration?",
+    "relevant_passages": [
+      3
+    ]
+  },
+  {
+    "query_id": 496,
+    "language": "en",
+    "topic": "quantum computing",
+    "query": "What are the major developments in quantum computing?",
+    "relevant_passages": [
+      637
+    ]
+  },
+  {
+    "query_id": 497,
+    "language": "ko",
+    "topic": "climate change",
+    "query": "What are the major developments in climate change?",
+    "relevant_passages": [
+      528
+    ]
+  },
+  {
+    "query_id": 498,
+    "language": "en",
+    "topic": "artificial intelligence",
+    "query": "What are the major developments in artificial intelligence?",
+    "relevant_passages": [
+      820
+    ]
+  },
+  {
+    "query_id": 499,
+    "language": "de",
+    "topic": "healthcare",
+    "query": "What are the major developments in healthcare?",
+    "relevant_passages": [
+      560
+    ]
+  }
+]
