@@ -1,0 +1,902 @@
+[
+  {
+    "id": "query_0",
+    "language": "ko",
+    "topic": "climate change",
+    "text": "climate change is an environmental issue",
+    "positive_passage_ids": [
+      "passage_379"
+    ]
+  },
+  {
+    "id": "query_1",
+    "language": "ko",
+    "topic": "healthcare",
+    "text": "     ",
+    "positive_passage_ids": [
+      "passage_262"
+    ]
+  },
+  {
+    "id": "query_2",
+    "language": "ko",
+    "topic": "space exploration",
+    "text": "  ",
+    "positive_passage_ids": [
+      "passage_64"
+    ]
+  },
+  {
+    "id": "query_3",
+    "language": "fr",
+    "topic": "artificial intelligence",
+    "text": "J'ai déjà l'integration de la vie du texte dans le monde, et j'ai décidé de mettre en uvre un",
+    "positive_passage_ids": [
+      "passage_341"
+    ]
+  },
+  {
+    "id": "query_4",
+    "language": "zh",
+    "topic": "renewable energy",
+    "text": "You want to know how renewable energy works?",
+    "positive_passage_ids": [
+      "passage_241"
+    ]
+  },
+  {
+    "id": "query_5",
+    "language": "zh",
+    "topic": "biodiversity",
+    "text": "Google says it would search the human genome for viruses",
+    "positive_passage_ids": [
+      "passage_129"
+    ]
+  },
+  {
+    "id": "query_6",
+    "language": "ja",
+    "topic": "space exploration",
+    "text": " ? ? ?",
+    "positive_passage_ids": [
+      "passage_56"
+    ]
+  },
+  {
+    "id": "query_7",
+    "language": "en",
+    "topic": "biodiversity",
+    "text": "I'd like some examples of a different word.",
+    "positive_passage_ids": [
+      "passage_67"
+    ]
+  },
+  {
+    "id": "query_8",
+    "language": "de",
+    "topic": "climate change",
+    "text": "Er ist ob die klimawandel eines anderen spezifikationen ist.",
+    "positive_passage_ids": [
+      "passage_81"
+    ]
+  },
+  {
+    "id": "query_9",
+    "language": "de",
+    "topic": "biodiversity",
+    "text": "Wenn man um die Frage eines Fragen betrifft, dann möchte jedoch das eigentlich jemand sagen, dass das das Thema recht versteht.",
+    "positive_passage_ids": [
+      "passage_394"
+    ]
+  },
+  {
+    "id": "query_10",
+    "language": "zh",
+    "topic": "space exploration",
+    "text": ", , , & , ",
+    "positive_passage_ids": [
+      "passage_273"
+    ]
+  },
+  {
+    "id": "query_11",
+    "language": "ko",
+    "topic": "financial technology",
+    "text": "How big is the future of the reinsurance market?",
+    "positive_passage_ids": [
+      "passage_194"
+    ]
+  },
+  {
+    "id": "query_12",
+    "language": "ko",
+    "topic": "climate change",
+    "text": " ",
+    "positive_passage_ids": [
+      "passage_81"
+    ]
+  },
+  {
+    "id": "query_13",
+    "language": "fr",
+    "topic": "quantum computing",
+    "text": "Ajax! Which website have you been searching for in the last few weeks, or?",
+    "positive_passage_ids": [
+      "passage_54"
+    ]
+  },
+  {
+    "id": "query_14",
+    "language": "zh",
+    "topic": "renewable energy",
+    "text": "   ",
+    "positive_passage_ids": [
+      "passage_104"
+    ]
+  },
+  {
+    "id": "query_15",
+    "language": "de",
+    "topic": "space exploration",
+    "text": "Vielleicht ist das eine Frage des eigentlichen Erlebnissens?",
+    "positive_passage_ids": [
+      "passage_123"
+    ]
+  },
+  {
+    "id": "query_16",
+    "language": "ja",
+    "topic": "healthcare",
+    "text": "Would you like to know how much there is charge for the emergency room?",
+    "positive_passage_ids": [
+      "passage_311"
+    ]
+  },
+  {
+    "id": "query_17",
+    "language": "de",
+    "topic": "financial technology",
+    "text": "(Im Fall nicht nur in diesem Jahr das Problem, dass der eigentlich eine wirkliche Frage begriffen ist.) Ich kann es auf keinen Weg aufgeführt, weil das",
+    "positive_passage_ids": [
+      "passage_283"
+    ]
+  },
+  {
+    "id": "query_18",
+    "language": "zh",
+    "topic": "artificial intelligence",
+    "text": "",
+    "positive_passage_ids": [
+      "passage_395"
+    ]
+  },
+  {
+    "id": "query_19",
+    "language": "ko",
+    "topic": "renewable energy",
+    "text": "Ukwabn taky kob,    kob ny ikra h",
+    "positive_passage_ids": [
+      "passage_346"
+    ]
+  },
+  {
+    "id": "query_20",
+    "language": "fr",
+    "topic": "healthcare",
+    "text": "Les pharmacies sont fédéraux, ont-elles d’ailleurs d’un système de soins à l’hôpital et sont éta",
+    "positive_passage_ids": [
+      "passage_161"
+    ]
+  },
+  {
+    "id": "query_21",
+    "language": "ko",
+    "topic": "quantum computing",
+    "text": "So what is quantum computing?",
+    "positive_passage_ids": [
+      "passage_191"
+    ]
+  },
+  {
+    "id": "query_22",
+    "language": "fr",
+    "topic": "financial technology",
+    "text": "Pourquoi pour l'anglaise, n'on entendait pas la recherche financier ?",
+    "positive_passage_ids": [
+      "passage_312"
+    ]
+  },
+  {
+    "id": "query_23",
+    "language": "fr",
+    "topic": "healthcare",
+    "text": "– Quiere l'adresse de la médecine et la médecine fédéral : 414-953-5427",
+    "positive_passage_ids": [
+      "passage_80"
+    ]
+  },
+  {
+    "id": "query_24",
+    "language": "ko",
+    "topic": "renewable energy",
+    "text": " ",
+    "positive_passage_ids": [
+      "passage_164"
+    ]
+  },
+  {
+    "id": "query_25",
+    "language": "ko",
+    "topic": "space exploration",
+    "text": "",
+    "positive_passage_ids": [
+      "passage_75"
+    ]
+  },
+  {
+    "id": "query_26",
+    "language": "fr",
+    "topic": "quantum computing",
+    "text": "A ni peux j'imaginer un problème à la fin du Quai Quan à l'âge de la curdure dans l",
+    "positive_passage_ids": [
+      "passage_351"
+    ]
+  },
+  {
+    "id": "query_27",
+    "language": "ko",
+    "topic": "healthcare",
+    "text": " ",
+    "positive_passage_ids": [
+      "passage_180"
+    ]
+  },
+  {
+    "id": "query_28",
+    "language": "ko",
+    "topic": "artificial intelligence",
+    "text": "          .         ",
+    "positive_passage_ids": [
+      "passage_189"
+    ]
+  },
+  {
+    "id": "query_29",
+    "language": "es",
+    "topic": "biodiversity",
+    "text": "Entonces, debo encontrar el agua de la biodiversidad; el objeto del bólogo.",
+    "positive_passage_ids": [
+      "passage_239"
+    ]
+  },
+  {
+    "id": "query_30",
+    "language": "es",
+    "topic": "financial technology",
+    "text": "Tal vez el mejor término es que la tecnologa financiera.",
+    "positive_passage_ids": [
+      "passage_223"
+    ]
+  },
+  {
+    "id": "query_31",
+    "language": "de",
+    "topic": "climate change",
+    "text": "Warum wäre es, in Bezug auf die Einbindung von klimawandel in den Zeiten zu ändern ?",
+    "positive_passage_ids": [
+      "passage_300"
+    ]
+  },
+  {
+    "id": "query_32",
+    "language": "ko",
+    "topic": "artificial intelligence",
+    "text": "Google search bot - google search bot - \"an artificial intelligence? \" Google search bot - Google search bot - Google search bot - Google search bot",
+    "positive_passage_ids": [
+      "passage_154"
+    ]
+  },
+  {
+    "id": "query_33",
+    "language": "ar",
+    "topic": "quantum computing",
+    "text": "If you can't make something like \"computing\" look like a real person would, do it yourself this way: ",
+    "positive_passage_ids": [
+      "passage_33"
+    ]
+  },
+  {
+    "id": "query_34",
+    "language": "de",
+    "topic": "space exploration",
+    "text": "Was ich fragen würde?",
+    "positive_passage_ids": [
+      "passage_65"
+    ]
+  },
+  {
+    "id": "query_35",
+    "language": "es",
+    "topic": "financial technology",
+    "text": "Se tratará de haber eso en materia financiera?",
+    "positive_passage_ids": [
+      "passage_78"
+    ]
+  },
+  {
+    "id": "query_36",
+    "language": "ko",
+    "topic": "quantum computing",
+    "text": "Q=int= 3Q=[]  _ Q=[]   q=[]   ",
+    "positive_passage_ids": [
+      "passage_49"
+    ]
+  },
+  {
+    "id": "query_37",
+    "language": "zh",
+    "topic": "space exploration",
+    "text": "   ",
+    "positive_passage_ids": [
+      "passage_105"
+    ]
+  },
+  {
+    "id": "query_38",
+    "language": "zh",
+    "topic": "quantum computing",
+    "text": "?",
+    "positive_passage_ids": [
+      "passage_172"
+    ]
+  },
+  {
+    "id": "query_39",
+    "language": "es",
+    "topic": "biodiversity",
+    "text": "Unos nios que tendran el objetivo de bsqueda natural que hace a cuando hab",
+    "positive_passage_ids": [
+      "passage_284"
+    ]
+  },
+  {
+    "id": "query_40",
+    "language": "ar",
+    "topic": "quantum computing",
+    "text": "i want to know more about quantum computing.",
+    "positive_passage_ids": [
+      "passage_99"
+    ]
+  },
+  {
+    "id": "query_41",
+    "language": "zh",
+    "topic": "climate change",
+    "text": "     ",
+    "positive_passage_ids": [
+      "passage_201"
+    ]
+  },
+  {
+    "id": "query_42",
+    "language": "ar",
+    "topic": "healthcare",
+    "text": "(@khyb0v @mdklyer ): I have a query in Arabic that addresses the medical field. what do I need to know in this field?",
+    "positive_passage_ids": [
+      "passage_347"
+    ]
+  },
+  {
+    "id": "query_43",
+    "language": "ja",
+    "topic": "quantum computing",
+    "text": "?",
+    "positive_passage_ids": [
+      "passage_148"
+    ]
+  },
+  {
+    "id": "query_44",
+    "language": "ko",
+    "topic": "financial technology",
+    "text": "What is the financial tech in Korea?",
+    "positive_passage_ids": [
+      "passage_229"
+    ]
+  },
+  {
+    "id": "query_45",
+    "language": "de",
+    "topic": "climate change",
+    "text": "What is the temperature change in the Arctic?",
+    "positive_passage_ids": [
+      "passage_210"
+    ]
+  },
+  {
+    "id": "query_46",
+    "language": "ja",
+    "topic": "financial technology",
+    "text": "How do I start a chat with the person who speaks Japanese?",
+    "positive_passage_ids": [
+      "passage_194"
+    ]
+  },
+  {
+    "id": "query_47",
+    "language": "en",
+    "topic": "climate change",
+    "text": "What is the best idea to write about climate change?",
+    "positive_passage_ids": [
+      "passage_201"
+    ]
+  },
+  {
+    "id": "query_48",
+    "language": "zh",
+    "topic": "healthcare",
+    "text": "   ",
+    "positive_passage_ids": [
+      "passage_323"
+    ]
+  },
+  {
+    "id": "query_49",
+    "language": "ko",
+    "topic": "healthcare",
+    "text": "A: I want to know how to care for a patient. Is there any way to do this? XXX",
+    "positive_passage_ids": [
+      "passage_370"
+    ]
+  },
+  {
+    "id": "query_50",
+    "language": "ko",
+    "topic": "quantum computing",
+    "text": "(Korean) Quantum Computing",
+    "positive_passage_ids": [
+      "passage_269"
+    ]
+  },
+  {
+    "id": "query_51",
+    "language": "de",
+    "topic": "quantum computing",
+    "text": "warum mein Computer te die Verzwungen in meiner Schule föhlen?",
+    "positive_passage_ids": [
+      "passage_151"
+    ]
+  },
+  {
+    "id": "query_52",
+    "language": "ja",
+    "topic": "biodiversity",
+    "text": "a. How would you find a habitat to live in?",
+    "positive_passage_ids": [
+      "passage_85"
+    ]
+  },
+  {
+    "id": "query_53",
+    "language": "de",
+    "topic": "artificial intelligence",
+    "text": "Das Einstein ist die Einstein von den Realn und außerhalb seiner Familie. Das bedeutet ein echtes Einstein mehr.",
+    "positive_passage_ids": [
+      "passage_16"
+    ]
+  },
+  {
+    "id": "query_54",
+    "language": "en",
+    "topic": "space exploration",
+    "text": "How does it work if a person searches for something?",
+    "positive_passage_ids": [
+      "passage_396"
+    ]
+  },
+  {
+    "id": "query_55",
+    "language": "zh",
+    "topic": "space exploration",
+    "text": "  ",
+    "positive_passage_ids": [
+      "passage_202"
+    ]
+  },
+  {
+    "id": "query_56",
+    "language": "ja",
+    "topic": "renewable energy",
+    "text": "Will there be any information on renewable energy?",
+    "positive_passage_ids": [
+      "passage_352"
+    ]
+  },
+  {
+    "id": "query_57",
+    "language": "en",
+    "topic": "financial technology",
+    "text": "I need a person with a web browser.",
+    "positive_passage_ids": [
+      "passage_36"
+    ]
+  },
+  {
+    "id": "query_58",
+    "language": "zh",
+    "topic": "biodiversity",
+    "text": "?",
+    "positive_passage_ids": [
+      "passage_239"
+    ]
+  },
+  {
+    "id": "query_59",
+    "language": "ko",
+    "topic": "quantum computing",
+    "text": "Were there any good quantum computing websites, like edubit - where are the companies?",
+    "positive_passage_ids": [
+      "passage_25"
+    ]
+  },
+  {
+    "id": "query_60",
+    "language": "en",
+    "topic": "healthcare",
+    "text": "What is the real reason that you want to know for yourself?",
+    "positive_passage_ids": [
+      "passage_314"
+    ]
+  },
+  {
+    "id": "query_61",
+    "language": "es",
+    "topic": "renewable energy",
+    "text": "Qué página es de energia a nmeros aquellos que el gobierno ",
+    "positive_passage_ids": [
+      "passage_57"
+    ]
+  },
+  {
+    "id": "query_62",
+    "language": "zh",
+    "topic": "financial technology",
+    "text": "",
+    "positive_passage_ids": [
+      "passage_194"
+    ]
+  },
+  {
+    "id": "query_63",
+    "language": "es",
+    "topic": "artificial intelligence",
+    "text": "Hasta una bóla de manera real acerca del arte del sexo artificial?",
+    "positive_passage_ids": [
+      "passage_132"
+    ]
+  },
+  {
+    "id": "query_64",
+    "language": "ko",
+    "topic": "financial technology",
+    "text": "You can find about the financial technologies in China here : http://www.finance.org/finance.asp?search=3fkb8qC",
+    "positive_passage_ids": [
+      "passage_107"
+    ]
+  },
+  {
+    "id": "query_65",
+    "language": "es",
+    "topic": "climate change",
+    "text": "Por qué haba que buscar un problema del cambio climático del siglo XVI, como el mov",
+    "positive_passage_ids": [
+      "passage_47"
+    ]
+  },
+  {
+    "id": "query_66",
+    "language": "ar",
+    "topic": "artificial intelligence",
+    "text": "The term “intelligence” is used in the vocabulary of Arabic. How does this translate into the Arabic language?",
+    "positive_passage_ids": [
+      "passage_189"
+    ]
+  },
+  {
+    "id": "query_67",
+    "language": "es",
+    "topic": "artificial intelligence",
+    "text": "Aqu podemos buscar una solución del artificial integrado usando la foto del espacio que buscara a personas",
+    "positive_passage_ids": [
+      "passage_337"
+    ]
+  },
+  {
+    "id": "query_68",
+    "language": "fr",
+    "topic": "biodiversity",
+    "text": "Anomenaire à l'existence de tous des animales, et d'autres espèces de l'Afrique est un naturel d'un peuple",
+    "positive_passage_ids": [
+      "passage_275"
+    ]
+  },
+  {
+    "id": "query_69",
+    "language": "de",
+    "topic": "financial technology",
+    "text": "In welchen Art würde an einem solchen Frage anwenden?",
+    "positive_passage_ids": [
+      "passage_36"
+    ]
+  },
+  {
+    "id": "query_70",
+    "language": "en",
+    "topic": "financial technology",
+    "text": "What are the main things I find interesting about financial technology?",
+    "positive_passage_ids": [
+      "passage_31"
+    ]
+  },
+  {
+    "id": "query_71",
+    "language": "de",
+    "topic": "artificial intelligence",
+    "text": "Ich möchte dem Gedanken angehen.",
+    "positive_passage_ids": [
+      "passage_315"
+    ]
+  },
+  {
+    "id": "query_72",
+    "language": "ar",
+    "topic": "healthcare",
+    "text": "               ",
+    "positive_passage_ids": [
+      "passage_38"
+    ]
+  },
+  {
+    "id": "query_73",
+    "language": "ar",
+    "topic": "financial technology",
+    "text": "    ",
+    "positive_passage_ids": [
+      "passage_170"
+    ]
+  },
+  {
+    "id": "query_74",
+    "language": "ko",
+    "topic": "space exploration",
+    "text": "  .",
+    "positive_passage_ids": [
+      "passage_242"
+    ]
+  },
+  {
+    "id": "query_75",
+    "language": "zh",
+    "topic": "healthcare",
+    "text": "?",
+    "positive_passage_ids": [
+      "passage_15"
+    ]
+  },
+  {
+    "id": "query_76",
+    "language": "zh",
+    "topic": "renewable energy",
+    "text": "    ",
+    "positive_passage_ids": [
+      "passage_348"
+    ]
+  },
+  {
+    "id": "query_77",
+    "language": "en",
+    "topic": "artificial intelligence",
+    "text": "You'd better use that language to be able to search by the other way around.",
+    "positive_passage_ids": [
+      "passage_322"
+    ]
+  },
+  {
+    "id": "query_78",
+    "language": "zh",
+    "topic": "space exploration",
+    "text": "Q: What are ur fpndd words for?Q:",
+    "positive_passage_ids": [
+      "passage_205"
+    ]
+  },
+  {
+    "id": "query_79",
+    "language": "es",
+    "topic": "quantum computing",
+    "text": "Qué tipo de computación es que se puede encontrar?",
+    "positive_passage_ids": [
+      "passage_25"
+    ]
+  },
+  {
+    "id": "query_80",
+    "language": "ko",
+    "topic": "healthcare",
+    "text": "Doctors say you should have a physical and psychological checkup and have a physical examination.",
+    "positive_passage_ids": [
+      "passage_347"
+    ]
+  },
+  {
+    "id": "query_81",
+    "language": "de",
+    "topic": "climate change",
+    "text": "Wie ist dieses Zusammenhang? Die Ursachen der Klimawandel?",
+    "positive_passage_ids": [
+      "passage_319"
+    ]
+  },
+  {
+    "id": "query_82",
+    "language": "zh",
+    "topic": "climate change",
+    "text": "  ",
+    "positive_passage_ids": [
+      "passage_187"
+    ]
+  },
+  {
+    "id": "query_83",
+    "language": "ja",
+    "topic": "artificial intelligence",
+    "text": " ",
+    "positive_passage_ids": [
+      "passage_71"
+    ]
+  },
+  {
+    "id": "query_84",
+    "language": "fr",
+    "topic": "artificial intelligence",
+    "text": "Pourquoi le site-mafi-au-dessus et l'utilisation de la fonction d'intelligent-matique ?",
+    "positive_passage_ids": [
+      "passage_149"
+    ]
+  },
+  {
+    "id": "query_85",
+    "language": "ko",
+    "topic": "space exploration",
+    "text": "   ,  ?",
+    "positive_passage_ids": [
+      "passage_69"
+    ]
+  },
+  {
+    "id": "query_86",
+    "language": "zh",
+    "topic": "biodiversity",
+    "text": "",
+    "positive_passage_ids": [
+      "passage_118"
+    ]
+  },
+  {
+    "id": "query_87",
+    "language": "ar",
+    "topic": "healthcare",
+    "text": "If you want to know more about healthcare in general, then I'd suggest giving that information the same way I do. I've been using the word health in two different posts and found it",
+    "positive_passage_ids": [
+      "passage_180"
+    ]
+  },
+  {
+    "id": "query_88",
+    "language": "ar",
+    "topic": "climate change",
+    "text": "  ",
+    "positive_passage_ids": [
+      "passage_1"
+    ]
+  },
+  {
+    "id": "query_89",
+    "language": "ko",
+    "topic": "artificial intelligence",
+    "text": "Search for \"AI\" with no strings and no text",
+    "positive_passage_ids": [
+      "passage_340"
+    ]
+  },
+  {
+    "id": "query_90",
+    "language": "es",
+    "topic": "space exploration",
+    "text": "Qué cuestión puede encontrar acerca de la exploración del espacio?",
+    "positive_passage_ids": [
+      "passage_139"
+    ]
+  },
+  {
+    "id": "query_91",
+    "language": "de",
+    "topic": "climate change",
+    "text": "Warum lautete eine Wahrheit auf die Klimawandel?",
+    "positive_passage_ids": [
+      "passage_63"
+    ]
+  },
+  {
+    "id": "query_92",
+    "language": "ar",
+    "topic": "climate change",
+    "text": "As a student in my high school, I asked about how the weather is turning. I thought maybe a bit more harsh to you, but I guess it's a big part of",
+    "positive_passage_ids": [
+      "passage_201"
+    ]
+  },
+  {
+    "id": "query_93",
+    "language": "ja",
+    "topic": "biodiversity",
+    "text": "",
+    "positive_passage_ids": [
+      "passage_46"
+    ]
+  },
+  {
+    "id": "query_94",
+    "language": "es",
+    "topic": "climate change",
+    "text": "El climatice es una solución de inversión al otro juego",
+    "positive_passage_ids": [
+      "passage_321"
+    ]
+  },
+  {
+    "id": "query_95",
+    "language": "ko",
+    "topic": "healthcare",
+    "text": "Doctors can do faqs on your mobile phones which is what they do with the internet.",
+    "positive_passage_ids": [
+      "passage_257"
+    ]
+  },
+  {
+    "id": "query_96",
+    "language": "ja",
+    "topic": "artificial intelligence",
+    "text": "()",
+    "positive_passage_ids": [
+      "passage_253"
+    ]
+  },
+  {
+    "id": "query_97",
+    "language": "ja",
+    "topic": "renewable energy",
+    "text": "Why does Japan have a huge demand for renewable energy?",
+    "positive_passage_ids": [
+      "passage_267"
+    ]
+  },
+  {
+    "id": "query_98",
+    "language": "es",
+    "topic": "space exploration",
+    "text": "No se muestra la experiencia cosmática como mucho más se sigue en el medio ambiente.",
+    "positive_passage_ids": [
+      "passage_123"
+    ]
+  },
+  {
+    "id": "query_99",
+    "language": "ja",
+    "topic": "biodiversity",
+    "text": "1",
+    "positive_passage_ids": [
+      "passage_244"
+    ]
+  }
+]
