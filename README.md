@@ -27,23 +27,23 @@
 
 
 **File Descriptions:**
-- \config/training_config.py\ - Training configuration and hyperparameters
-- \data/data_loader.py\ - Data loading and processing utilities  
-- \data/data_generation.py\ - Synthetic multilingual data generation
-- \models/dpr_model.py\ - Dual encoder model architecture
-- \	raining/trainer.py\ - Main training pipeline with our innovations
-- \	raining/cluster_manager.py\ - SAC-ICT & ACR-ICT implementations
-- \	raining/loss_functions.py\ - Contrastive loss functions
-- \evaluation/evaluator.py\ - Retrieval evaluation metrics
-- \isualization/visualizer.py\ - Training analysis and plots
-- \main.py\ - Main execution script
+- \config/training_config.py - Training configuration and hyperparameters
+- \data/data_loader.py - Data loading and processing utilities  
+- \data/data_generation.py- Synthetic multilingual data generation
+- \models/dpr_model.py - Dual encoder model architecture
+- \	raining/trainer.py - Main training pipeline with our innovations
+- \	raining/cluster_manager.py - SAC-ICT & ACR-ICT implementations
+- \	raining/loss_functions.py- Contrastive loss functions
+- \evaluation/evaluator.py - Retrieval evaluation metrics
+- \isualization/visualizer.py - Training analysis and plots
+- \main.py - Main execution script
 - \
 un_training.py\ - Simplified training runner
 
 ## 🛠️ Quick Start
 
 ### Installation
-\\\ash
+\\\bash
 git clone https://github.com/siri27d/multilingual-dpr.git
 cd multilingual-dpr
 pip install -r requirements.txt
@@ -51,19 +51,6 @@ pip install -r requirements.txt
 
 # Run with synthetic data (default)
 python run_training.py
-\\\
-
-### Expected Output
-\\\
-🚀 Starting Multilingual DPR Training Environment
-✅ PyTorch version: 2.0.1
-✅ CUDA available: True
-📚 Loading data...
-✅ Generated 500 synthetic queries and 2000 passages
-🤖 Initializing model...
-🎯 Starting training with our innovations...
-⭐ Epoch 1/8 - Performing semantic clustering...
-✅ Training completed! Check outputs in: ./outputs
 \\\
 
 ## 📊 Performance Features
@@ -112,3 +99,4 @@ Contributions welcome! Please feel free to submit a Pull Request.
 ---
 
 **Repository**: [https://github.com/siri27d/multilingual-dpr](https://github.com/siri27d/multilingual-dpr)
+
