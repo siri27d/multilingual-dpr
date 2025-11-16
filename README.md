@@ -37,8 +37,7 @@
 - \evaluation/evaluator.py - Retrieval evaluation metrics
 - \isualization/visualizer.py - Training analysis and plots
 - \main.py - Main execution script
-- \
-un_training.py\ - Simplified training runner
+- \run_training.py\ - Simplified training runner
 
 ## 🛠️ Quick Start
 
@@ -99,4 +98,5 @@ Contributions welcome! Please feel free to submit a Pull Request.
 ---
 
 **Repository**: [https://github.com/siri27d/multilingual-dpr](https://github.com/siri27d/multilingual-dpr)
+
 
