@@ -133,17 +133,35 @@ class SemanticClusterManager:
             return silhouette_score(embeddings[indices], labels[indices])
         return -1.0
     
-    def find_hard_negatives(self, batch, query_idx, cluster_metadata, k: int = 5):
-        """Find hard negatives using semantic clustering"""
-        # Simplified implementation - in practice you'd use the cluster metadata
-        # to find passages from the same cluster but different queries
-        query_embedding = batch['query_input_ids'][query_idx].unsqueeze(0)
+    # In training/trainer.py - during training
+  def _get_hard_negatives_for_batch(self, batch, cluster_metadata):
+    hard_negatives_batch = []  # Will store hard negatives for each query in batch
+    
+    for i, query_data in enumerate(batch):
+        # Get the POSITIVE passage for this query
+        positive_passage_id = query_data['positive_passage_id']  # e.g., 'passage_156'
         
-        # This is a placeholder - real implementation would use the FAISS index
-        # to find similar but non-relevant passages
-        hard_negatives = []
+        # Find which cluster the positive passage belongs to
+        positive_passage_idx = cluster_metadata['passage_ids'].index(positive_passage_id)
+        positive_cluster_id = cluster_metadata['cluster_labels'][positive_passage_idx]
+        # positive_cluster_id might be 45 (meaning passage_156 is in cluster 45)
         
-        return hard_negatives
+        # Find ALL other passages in the SAME cluster
+        same_cluster_passage_ids = []
+        for idx, cluster_id in enumerate(cluster_metadata['cluster_labels']):
+            passage_id = cluster_metadata['passage_ids'][idx]
+            
+            # Check: Same cluster AND not the positive passage itself
+            if cluster_id == positive_cluster_id and passage_id != positive_passage_id:
+                same_cluster_passage_ids.append(passage_id)
+        
+        # Randomly select 3 passages from same cluster as hard negatives
+        num_negatives = min(3, len(same_cluster_passage_ids))
+        selected_hard_negatives = random.sample(same_cluster_passage_ids, num_negatives)
+        
+        hard_negatives_batch.append(selected_hard_negatives)
+    
+    return hard_negatives_batch
 
 class AdaptiveRefreshManager:
     """Implements our Adaptive Cluster Refreshing innovation"""
@@ -183,4 +201,5 @@ class AdaptiveRefreshManager:
                 self.last_refresh_epoch = current_epoch
                 return True
         
+
         return False
