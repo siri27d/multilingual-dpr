@@ -25,31 +25,6 @@
 - Genuine semantic relationships across language boundaries
 - Enhanced true semantic matching capability
 
-## 📁 Project Structure
-
-\\\
-multilingual-dpr/
-├── config/
-│   └── training_config.py
-├── data/
-│   ├── data_loader.py
-│   └── data_generation.py
-├── models/
-│   └── dpr_model.py
-├── training/
-│   ├── trainer.py
-│   ├── cluster_manager.py
-│   └── loss_functions.py
-├── evaluation/
-│   └── evaluator.py
-├── visualization/
-│   └── visualizer.py
-├── main.py
-├── run_training.py
-├── requirements.txt
-├── LICENSE
-└── README.md
-\\\
 
 **File Descriptions:**
 - \config/training_config.py\ - Training configuration and hyperparameters
@@ -62,7 +37,8 @@ multilingual-dpr/
 - \evaluation/evaluator.py\ - Retrieval evaluation metrics
 - \isualization/visualizer.py\ - Training analysis and plots
 - \main.py\ - Main execution script
-- \un_training.py\ - Simplified training runner
+- \
+un_training.py\ - Simplified training runner
 
 ## 🛠️ Quick Start
 
@@ -73,8 +49,6 @@ cd multilingual-dpr
 pip install -r requirements.txt
 \\\
 
-### Basic Usage
-\\\ash
 # Run with synthetic data (default)
 python run_training.py
 \\\
@@ -119,7 +93,8 @@ Modify \config/training_config.py\ for:
 - Evaluation metrics
 
 ## 📈 Visualization
-
+Run:
+python visualization/visualizer.py
 The framework automatically generates:
 - Training loss curves
 - Cluster evolution graphs  
